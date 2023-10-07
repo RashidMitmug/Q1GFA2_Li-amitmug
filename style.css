@@ -19,7 +19,10 @@ body{
     padding-right:1vw;
     font-size:larger
 }
-   #mit{
+   .h div{
+        font-size:3vw;
+   }
+    #mit{
         color:rgb(231, 55, 55);
     }
     .h #hl{
@@ -28,7 +31,7 @@ body{
     }
     .h #hm{
         display:inline-block;
-        color:rgb(205, 178, 29);
+        color:rgb(205, 178, 29)
     }
     #hm span{
         color:white;
