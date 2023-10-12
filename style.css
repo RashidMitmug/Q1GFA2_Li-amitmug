@@ -17,9 +17,6 @@ body{
     padding:1vw;
     font-size:larger
 }
-   .h div{
-        font-size:2vw;
-   }
     #mit{
         color:rgb(231, 55, 55);
     }
@@ -40,6 +37,7 @@ body{
     }
     #hr #li div{
         display: inline-block;
+        font-size:smaller;
     }
         #hr #li div a{
             color:rgb(229, 137, 32);
@@ -48,22 +46,19 @@ body{
         }
 .c{
     text-align: center;
-    padding:0.2vw;
+    padding:1px;
 }
     .c #cl{
         float:left;
         background-color: #3e264f;
-        width:15vw;
+        width:10vw;
         height:35vh;
     }
         #cl #li div{
-            width:13vw;
+            width:90%;
             margin:auto;
             margin-top:3vh;
         }
-    .c #cl #li{
-        font-size:larger;
-    }
     .c #cm{
         display: inline-block;
         background-color: #3e264f;
