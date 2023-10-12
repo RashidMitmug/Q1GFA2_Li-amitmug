@@ -14,13 +14,11 @@ body{
     background-color: #723799;
     text-align: center;
     height:5vh;
-    padding-top:1vw;
-    padding-left:1vw;
-    padding-right:1vw;
+    padding:1vw;
     font-size:larger
 }
    .h div{
-        font-size:3vw;
+        font-size:2vw;
    }
     #mit{
         color:rgb(231, 55, 55);
@@ -45,12 +43,12 @@ body{
     }
         #hr #li div a{
             color:rgb(229, 137, 32);
-            padding-left:1vw;
-            padding-right:1vw;
+            padding-left:0.2vw;
+            padding-right:0.2vw;
         }
 .c{
     text-align: center;
-    padding:1vw;
+    padding:0.2vw;
 }
     .c #cl{
         float:left;
@@ -64,7 +62,7 @@ body{
             margin-top:3vh;
         }
     .c #cl #li{
-        font-size:150%;
+        font-size:larger;
     }
     .c #cm{
         display: inline-block;
@@ -74,19 +72,21 @@ body{
     }
     .c #cm .p{
         text-align: justify;
-        margin-left:5vw;
+        font-size:x-small;
+        margin-left:3vw;
         margin-right:2vw
     }
     .c #cr{
         float:right;
         background-color: #3e264f;
         width:25vw;
-        height:58vh;
+        height:75vh;
     }
     #cr p{
         text-align: justify;
         margin-left:1vw;
         margin-right:2vw;
+        font-size:smaller;
     }
 #li div{
         background-color: #692489;
